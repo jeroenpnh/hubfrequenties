@@ -1,0 +1,280 @@
+agency_name;route_short_name;route_long_name;Type;bus_type;route_id;<-- REMARK;col_7;REMARK -->;route_short_name_1;route_long_name_1;route_id_1
+Overal (Connexxion);1;Alkmaar Station - de Hoef;Stadsbus;2;63662;;;route_id?;1;Station - De Hoef;60805
+Connexxion;1;Hilversum Station - Kerkelanden;Stadsbus;2;1744;;;;1;Station - Centrum - Kerkelanden;1744
+Connexxion;2;Spaarnwoude Station - Haarlem Delftplein;Stadsbus;2;52505;;;;2;Haarlem Spaarnwoude - Station - Delftplein;52505
+Connexxion;2;Hilversum Station - Erfgooierskwartier;Stadsbus;2;1742;;;;2;Station - Over 't Spoor - Erfgooierskwartier;1742
+Overal (Connexxion);2;Alkmaar Daalmeer - Station - Overdie;Stadsbus;2;60813;;;;2;Overdie - Kooimeer - Ziekenhuis - Station - Huiswaard - 't Rak - Daalmeer;60813
+Connexxion;3;Schalkwijk Centrum - IJmuiden;Stadsbus;2;67294;now 68987;;68987;3;Haarlem Schalkwijk - Station - Delftplein - Velserbroek - Santpoort - IJmuiden;60812
+Connexxion;3;Hilversum Station - Tergooi Ziekenhuis;Stadsbus;2;1743;;;;3;Station → Sportpark → Ziekenhuis → Liebergerweg → Station;1743
+Overal (Connexxion);3;Alkmaar Station - De Mare - Daalmeer;Stadsbus;2;63658;now 71447;;71447;3;Station - Zeswielen - Station Noord - Huiswaard - De Horn - Daalmeer;52504
+Connexxion;4;Schalkwijk Centrum - Station Heemstede-Aerdenhout;Stadsbus;2;52502;;;;4;Heemstede Station - De Glip - Haarlem Schalkwijk;52502
+Overal (Connexxion);4;Alkmaar Station - Vroonermeer - Daalmeer;Stadsbus;2;60814;;;;4;Station - Zeswielen - Station Noord - Vroonermeer - Daalmeer;60814
+Connexxion;8;Haarlem Station - Hogeschool INHOLLAND;Stadsbus;2;52501;;;;8;Haarlem Station - Hogeschool INHOLLAND;52501
+Overal (Connexxion);8;Alkmaar Station - Bestevaerstraat;Stadsbus;2;60811;;;;8;Station - Ziekenhuis - Zuid - Overdie;60811
+Connexxion;9;Vogelenzang Dorp - Station Heemstede-Aerdenhout;Stadsbus;2;52500;;;;9;Heemstede - Aerdenhout - Vogelenzang;52500
+Overal (Connexxion);10;St. Pancras - Alkmaar Station;Stadsbus;2;63632;;;;10;Station - Oudorp - Sint Pancras;60793
+Overal (Connexxion);11;Hoorn Station - Zwaag Risdam;Stadsbus;2;63633;;;;11;Station - Blokmergouw - Zwaag;60794
+Overal (Connexxion);14;Luslijn Hoorn Station - Kersenboogerd;Stadsbus;2;63634;;;;14;Station - Centrum - Kersenboogerd;60795
+Connexxion;14;Hillegom Station - Haarlemmerl. Pont Buitenhuizen;Stadsbus;2;63674;now 68918;;68918;14;Hillegom - Vogelenzang - Bennebroek - Heemstede - Haarlem - Spaarndam - Haarlemmerliede;52489
+Connexxion;15;Haarlem Station - Waarderpolder - Spaarnwoude St.;Stadsbus;2;52491;;;;15;Haarlem Station - Waarderpolder - Spaarnwoude;52491
+GVB;15;Station Sloterdijk - Station Zuid;Stadsbus;2;473;;;;15;Station Sloterdijk - Bos en Lommer - Haarlemmermeerstation - Station Zuid;473
+GVB;18;Slotervaart - Centraal Station;Stadsbus;2;482;;;;18;Centraal Station - Haarlemmerplein - Nieuw-West - Slotervaart;482
+GVB;21;Geuzenveld - Centraal Station;Stadsbus;2;449;;;;21;Centraal Station - Haarlemmerplein - Bos en Lommer - Geuzenveld;449
+GVB;22;Station Sloterdijk - Muiderpoortstation;Stadsbus;2;60659;;;;22;Station Sloterdijk - Spaarndammerbuurt - Centraal Station - Indische Buurt - Muiderpoortstation;60659
+GVB;30;Bestel via mokumflex.nl - Bestel via mokumflex.nl;;;63212;Mokumflex= niet meenemen;;;;;
+Overal (Connexxion);30;Den Helder Station - Station Zuid - Julianadorp;Stadsbus;2;63644;;;;30;Station - Ziekenhuis - Station Zuid - Julianadorp;60800
+GVB;31;Bestel via mokumflex.nl - Bestel via mokumflex.nl;;;63213;Mokumflex= niet meenemen;;;;;
+Overal (Connexxion);31;Den Helder Station Zuid - Den Helder Station;Stadsbus;2;60783;;;;31;Station - Ziekenhuis - Nieuw-Den Helder - Station Zuid;60783
+Overal (Connexxion);33;Den Helder Station - Veerhaven;Stadsbus;2;61050;;;;33;Station - Veerhaven;61050
+GVB;34;Olof Palmeplein - Meeuwenlaan;Stadsbus;2;61514;;;;34;Olof Palmeplein - Metro Noord - Banne Buiksloot - Noorderpark;61514
+Overal (Connexxion);34;Den Helder Station - De Schooten;Stadsbus;2;63676;;;;34;Station - De Schooten;60829
+GVB;35;Olof Palmeplein - Nieuwendam - Noorderpark - Molenwijk;Stadsbus;2;61515;started on 29-06-2020;;started on 29-06-2020;35;Olof Palmeplein - Nieuwendam - Noorderpark - Molenwijk;61515
+GVB;36;Station Sloterdijk - Buikslotermeerplein;Stadsbus;2;63691;;;;36;Station Sloterdijk - Molenwijk - Metro Noord - Buikslotermeerplein;60675
+GVB;37;Amstelstation - Station Noord;Stadsbus;2;60658;;;;37;Metro Noord - Buikslotermeerplein - Zeeburgereiland - Muiderpoortstation - Amstelstation;60658
+GVB;38;Buiksloterham - Station Noord;Stadsbus;2;60677;;;;38;Buiksloterham - Buiksloterwegveer - Olof Palmeplein - Metro Noord;60677
+GVB;40;Amstelstation - Muiderpoortstation;Stadsbus;2;6139;;;;40;Amstelstation - Watergraafsmeer - Science Park - Muiderpoortstation;6139
+GVB;41;Station Holendrecht - Muiderpoortstation;Stadsbus;2;30633;;;;41;Muiderpoortstation - Watergraafsmeer - Duivendrecht - Kraaiennest - Station Holendrecht;30633
+GVB;44;Station Bijlmer ArenA - Diemen Noord;Stadsbus;2;460;;;;44;Bijlmer ArenA - Station Diemen Zuid - Diemen Centrum - Diemen Noord;460
+GVB;47;Station Holendrecht - Station Bijlmer ArenA;Stadsbus;2;462;;;;47;Bijlmer ArenA - Gaasperplas - Station Gein - Station Holendrecht;462
+GVB;48;Houthavens - Borneo Eiland;Stadsbus;2;30632;;;;48;Houthaven - Spaarndammerbuurt - Haarlemmerplein - Centraal Station - KNSM-Eiland - Borneo Eiland;30632
+GVB;49;Station Bijlmer ArenA - Station Weesp;Stadsbus;2;439;;;;49;Bijlmer ArenA - Gaasperplas - Driemond - Weesp Station;439
+Arriva;50;Leiden Centraal - Haarlem;Streekbus;1;5444;;;;50;Leiden - Warmond - Sassenheim - Lisse - Hillegom - Bennebroek - Heemstede - Haarlem;5444
+GVB;55;Station Zuid - Amstelveen;Stadsbus;2;63197;"starts 29-06-20 but now cancelled; 67608";;;;;
+Connexxion;56;Zaandam Station via Prins Bernhardbrug;Stadsbus;2;67276;now cancelled 21-06-20;;;;;
+Arriva;57;Nieuw-Vennep via Noordwijkerhout - Leiden Centraal;Streekbus;1;42396;;;;;;
+U-OV;58;Hilversum - Zeist;Streekbus;1;67117;U-OV reed t/m 2 januari 2021,  hierna Syntus;;;;;
+Connexxion;59;Hilversum - Zeist;Streekbus;1;67118;Connexxion reed t/m 2 januari 2021,  hierna Syntus;;;;;
+Connexxion;59;Beverwijk Station - Zaandam Station;Streekbus;1;1356;;;;59;Zaandam - Nauerna - Beverwijk;1356
+GVB;61;Station Sloterdijk - Slotervaart;Stadsbus;2;429;;;;61;Station Sloterdijk - Geuzenveld - Osdorp - Slotervaart;429
+GVB;62;Station Lelylaan - Amstelstation;Stadsbus;2;428;;;;62;Amstelstation - Rivierenbuurt - Station RAI - Buitenveldert - Haarlemmermeerstation - Station Lelylaan;428
+GVB;63;Station Lelylaan - Osdorp De Aker;Stadsbus;2;427;;;;63;Station Lelylaan - Osdorp De Aker;427
+Connexxion;64;Zaandijk Rooswijk - Zaandam Kogerveld;Streekbus;1;1153;;;;64;Kogerveld - ZMC - Station Zaandam - Koog aan de Zaan - Zaandijk;1153
+Connexxion;65;Zaandam De Vlinder - Krommenie-Assendelft Station;Streekbus;1;30499;;;;65;Zaandam De Vlinder - Station - Koog aan de Zaan - Assendelft;30499
+GVB;65;KNSM Eiland - Station Zuid;Stadsbus;2;461;;;;65;Station Zuid - Rivierenbuurt - Amstelstation - Watergraafsmeer - Indische Buurt - KNSM-Eiland;461
+Connexxion;66;Zaandam Station via Den Uylbrug;Stadsbus;2;67254;now cancelled 21-06-20;;;;;
+GVB;66;Station Bijlmer ArenA - IJburg;Stadsbus;2;441;;;;66;Bijlmer ArenA - Diemen Vinkenbrug - IJburg;441
+Connexxion;67;Wormer - Zaandam Station - Westzaan - Assendelft;Streekbus;1;30498;;;;67;Wormer - Wormerveer - Zaandijk - Koog aan de Zaan - Zaandam - Koog aan de Zaan - Assendelft;30498
+Connexxion;69;Krommenie - Zaandam Station - Kalf;Streekbus;1;53335;;;;69;Assendelft - Krommenie - Wormerveer - Koog aan de Zaan - Zaandam Station - ZMC - Kogerveld 't Kalf;53335
+GVB;69;Station Sloterdijk - Schiphol Airport/Plaza;Stadsbus;2;19015;;;;69;Station Sloterdijk - Osdorp - Schiphol Noord - Schiphol Plaza;19015
+Syntus Utrecht;70;Amersfoort via Soest - Hilversum via Soest;Streekbus;1;57699;;;;70;Amersfoort - Soest - Hilversum;57699
+Connexxion;71;Beverwijk Station - Uitgeest Station;Streekbus;1;52494;;;;71;Beverwijk - Heemskerk - Uitgeest;52494
+Connexxion;72;Beverwijk Station - Heemskerk Centrum;Streekbus;1;67292;;;;72;Beverwijk - Heemskerk;52495
+Connexxion;73;Schalkwijk Centrum - Uitgeest Station;Streekbus;1;63682;now: 68983;;68983;73;Haarlem Schalkwijk - Station - Delftplein - Velserbroek - Beverwijk - Heemskerk - Uitgeest;52496
+Connexxion;74;IJmuiden Dennekoplaan - Heemskerk Centrum;Streekbus;1;67293;now: 68984;;68984;74;IJmuiden - Velsen - Beverwijk - Heemskerk;52497
+Connexxion;76;Beverwijk Station - Beverwijk Bazaar;;;52498;only in the weekend;;;;;
+Connexxion;78;Wijk aan Zee - Beverwijk Station;Streekbus;1;63680;;;;78;Beverwijk - Wijk aan Zee;52492
+Connexxion;79;Beverwijk Station - Castricum Soomerwegh;Streekbus;1;52493;;;;79;Beverwijk - Heemskerk - Castricum;52493
+Connexxion;80;Zandvoort - Amsterdam Busstation Elandsgracht;Streekbus;1;52485;;;from Busstation Elandsgracht io A'dam CS;80;Amsterdam Centrum - Halfweg - Haarlem - Heemstede - Zandvoort;52485
+Connexxion;81;Zandvoort - Haarlem Station;Streekbus;1;52484;;;;81;Haarlem - Overveen - Bloemendaal - Zandvoort;52484
+Connexxion;82;Amsterdam Sloterdijk - IJmuiden Sluisplein DFDS;Streekbus;1;52486;Line is cancelled 28-04-19;;Line is cancelled;82;Amsterdam Sloterdijk - IJmuiden Sluisplein DFDS;52486
+Connexxion;100;Bussum - Blaricum;Streekbus;1;1408;;;;100;Bussum - Huizen - Blaricum Bijvanck - Hilversum;1408
+Connexxion;101;Bussum - Blaricum;Streekbus;1;1409;;;;101;Bussum - Huizen;1409
+Connexxion;101;van Purmerend naar De Purmer Zuid;Stadsbus;2;43163;;;;101;Tramplein - Station - De Purmer Zuid;43163
+EBS;103;van Monnickendam naar Purmerend;Streekbus;1;418;;;;103;Purmerend - De Purmer - Monnickendam;418
+Connexxion;104;Hilversum - Nieuw Loosdrecht;Streekbus;1;1338;;;;104;Hilversum - Nieuw-Loosdrecht;1338
+Connexxion;105;Bussum - Hilversum;Streekbus;1;1339;;;;105;Hilversum - Kortenhoef - 's-Graveland - Hilversumse Meent - Bussum;1339
+Connexxion;106;Weesp - Nederhorst den Berg;Streekbus;1;1340;;;;106;Hilversum - Kortenhoef - Nederhorst den Berg - Weesp;1340
+Connexxion;107;Huizen - Hilversum;Streekbus;1;1341;;;;107;Hilversum - Bussum - Blaricum Ziekenhuis;1341
+Connexxion;108;Huizen - Hilversum;Streekbus;1;1334;;;;108;Hilversum - Laren - Blaricum Dorp - Huizen;1334
+Connexxion;109;Bussum - Hilversum;Streekbus;1;1335;;;;109;Hilversum - Eemnes - Laren - Blaricum Ziekenhuis - Bussum;1335
+Connexxion;110;Bussum - Weesp;Streekbus;1;1190;;;;110;Bussum - Naarden - Muiderberg - Muiden - Weesp;1190
+EBS;110;van Volendam naar Purmerend;Streekbus;1;60892;;;;110;Volendam - Edam - Purmerend;60892
+Syntus Utrecht;120;Amsterdam Bijlmer ArenA - Utrecht CS;Streekbus;1;57685;;;;120;Utrecht - Maarssen - Breukelen - Loenen aan de Vecht - Abcoude - Amsterdam-Zuidoost;57685
+Syntus Utrecht;121;Mijdrecht via Loenen - Hilversum;Streekbus;1;57682;;;;121;Hilversum - Oud-Loosdrecht - Loenen aan de Vecht - Mijdrecht;57682
+Overal (Connexxion);121;van Wormerveer naar Purmerend;Streekbus;1;412;;;;121;Purmerend - Neck - Jisp - Wormer - Wormerveer;412
+Overal (Connexxion);123;Alkmaar Station - De Rijp - Alkmaar Station;Streekbus;1;60799;;;;123;Alkmaar - Schermer - Stompetoren - Schermerhorn - Grootschermer - Graft - De Rijp - Alkmaar;60799
+EBS;125;van Amsterdam Sloterdijk naar Purmerend;Streekbus;1;60898;;;;125;Amsterdam Sloterdijk - Amsterdam Molenwijk - Landsmeer - Den Ilp - Purmerland - Purmerend;60898
+Syntus Utrecht;126;Amsterdam via Abcoude A2 - Mijdrecht;Streekbus;1;67035;now 67845;;67845;126;Amsterdam-Zuidoost - Vinkeveen - Mijdrecht;57789
+Overal (Connexxion);128;Hoorn Station - Noordbeemster;Streekbus;1;63642;;;;128;Hoorn - Berkhout - De Goorn - Avenhorn - Noordbeemster;60797
+Overal (Connexxion);129;Alkmaar Station - Noordbeemster - P'rend Tramplein;Streekbus;1;63643;;;;129;Alkmaar - Schermer - Stompetoren - Schermerhorn - Noordbeemster - Middenbeemster - Zuidoostbeemster - Purmerend;60798
+Overal (Connexxion);132;Hoorn Station - Wervershoof - Andijk;Streekbus;1;60820;;;;132;Hoorn - Zwaag - Wervershoof - Andijk;60820
+Overal (Connexxion);133;Hoorn Station - Wognum - Opmeer - Hoogwoud;Streekbus;1;60819;;;;133;Hoorn - Zwaag - Wognum - Spanbroek - Opmeer - Hoogwoud;60819
+Overal (Connexxion);134;Hoorn Station - Abbekerk Dorp - Wieringerwerf;Streekbus;1;60818;;;;134;Hoorn - Abbekerk - Middenmeer - Slootdorp - Wieringerwerf;60818
+Overal (Connexxion);135;Hoorn Station - Wieringerwerf - Den Helder;Streekbus;1;60817;;;;135;Hoorn - Abbekerk - Middenmeer - Wieringerwerf - Den Oever - Den Helder;60817
+Overal (Connexxion);136;Nibbixwoud - Oostwoud - Hoorn Station;Streekbus;1;63660;;;;136;Hoorn - Wognum - Nibbixwoud - Hauwert / Benningbroek - Midwoud;60816
+Overal (Connexxion);139;Hoorn Station - Abbekerk - Opperdoes - Medemblik;Streekbus;1;63659;;;;139;Hoorn - Abbekerk - Opperdoes - Medemblik;60815
+Overal (Connexxion);151;Alkmaar Station - Petten;Streekbus;1;63686;;;;151;Alkmaar - Schoorl - Petten;60836
+Overal (Connexxion);152;Schagen Station - Callantsoog;Streekbus;1;60837;;;;152;Schagen - 't Zandt - Callantsoog;60837
+Overal (Connexxion);156;Warmenhuizen - Schagen Station;Streekbus;1;63688;;;;156;Schagen - Dirkshorn - Tuitjenhorn - Warmenhuizen;60839
+Overal (Connexxion);157;Alkmaar Station - Tuitjenhorn;Streekbus;1;63687;;;;157;Alkmaar - Schoorldam - Warmenhuizen - Tuitjenhorn;60838
+Overal (Connexxion);160;Alkmaar Station - Heerhugowaard;Streekbus;1;60784;;;;160;Alkmaar - Heerhugowaard;60784
+Connexxion;161;Zwanenburg - Hoofddorp Station;Streekbus;1;62521;;;;161;Hoofddorp - Lijnden - Boesingheliede - Halfweg - Zwanenburg;62521
+Overal (Connexxion);162;Alkmaar Station - Heerhugowaard Icaruslaan;Streekbus;1;63628;;;;162;Alkmaar - Heerhugowaard;60785
+Overal (Connexxion);162;Lisse - Hoofddorp Station;Streekbus;1;62520;;;;162;Hoofddorp - Nieuw Vennep - Lisserbroek - Lisse;62520
+Overal (Connexxion);163;Alkmaar Station - Akersloot - Uitgeest;Streekbus;1;60786;Overal Flexbus, maar reguliere dienstregeling;;;163;Alkmaar - Akersloot - Uitgeest;60786
+Overal (Connexxion);164;Castricum Station - Egmond Binnen - Egmond aan Zee;Streekbus;1;63629;"Overal Flexbus; new line maar reguliere dienstregeling";;;;;
+Overal (Connexxion);165;Alkmaar Station -  Egmond a/Zee;Streekbus;1;60788;;;;165;Alkmaar - Egmond aan de Hoef - Egmond aan Zee;60788
+Overal (Connexxion);166;Bergen - Alkmaar Station;Streekbus;1;63630;;;;166;Alkmaar - Bergen;60789
+Overal (Connexxion);167;Castricum Station - Alkmaar Station;Streekbus;1;63631;;;;167;Alkmaar - Heiloo - Castricum;60790
+Connexxion;169;Hoofddorp Sportcomplex KWA - Hoofddorp Station;Stadsbus;2;62523;;;;169;Station - Centrum - Toolenburg - Overbos - Spaarne Gasthuis - Sportcomplex KWA;62523
+Overal (Connexxion);169;Alkmaar Station - Oudkarspel;Streekbus;1;60791;;;;169;Alkmaar - Broek op Langedijk - Scharwoude - Oudkarspel;60791
+Connexxion;171;Aalsmeer - Amsterdam Bijlmer ArenA;Streekbus;1;62548;;;;171;Amsterdam Zuidoost - Ouderkerk aan de Amstel - Amstelveen - Aalsmeer;62548
+Connexxion;174;Uithoorn - Amstelveen KLM Hoofdkantoor;Streekbus;1;65615;;;;174;Amstelveen Dorp - Amstelveen Busstation - Amstelveen MiddenStreekbusen - Uithoorn Busstation - Uithoorn Meerwijk;62191
+Connexxion;180;Cirkellijn Schiphol [P30 - P30 via Oost & Rijk];Stadsbus;2;66486;Circleline;;Circleline;180;Schiphol: Zuid - Centrum - Noord - Oost - Rijk;62541
+Connexxion;181;Cirkellijn Schiphol [Noord - Noord via Rijk&Oost];Stadsbus;2;66485;;;;181;Schiphol: Rijk - Rozenburg - Zuid - Centrum - Noord;62540
+Connexxion;185;Schiphol Airport - Justitieel Complex;Stadsbus;2;66387;;;;185;Schiphol: Centrum - Noordwest;62538
+Connexxion;186;Schiphol P30 - Amstelveen Busstation via KLM;Streekbus;1;66388;;;;186;Schiphol Centrum - Schiphol Noord - Amsterdamse Bos - Amstelveen;62539
+Connexxion;190;Schiphol Knooppunt Noord - P30 via Airport;Stadsbus;2;63651;;;;190;Schiphol: Noord - Centrum - Zuid;62532
+Connexxion;191;Schiphol Zuidoost - Schiphol;Stadsbus;2;66483;;;;191;Schiphol: Centrum - Zuid - Rozenburg - Zuidoost;62533
+Connexxion;194;Schiphol P30 - Nieuw West via Badhoevedorp;Streekbus;1;66484;;;;194;Schiphol Centrum - Schiphol Noord - Badhoevedorp - Amsterdam Osdorp;62534
+Connexxion;195;Schiphol P30 - A'dam Lelylaan via Badhoevedorp;Streekbus;1;66385;;;;195;Schiphol Centrum - Schiphol Noord - Badhoevedorp - Amsterdam Lelylaan;62535
+Connexxion;198;Schiphol Rijk - Aalsmeer;Streekbus;1;71409;;;;198;Schiphol Rijk - Aalsmeer;62185
+Connexxion;199;Schiphol  P30 - Amstelveen Praam;Streekbus;1;66482;;;;199;Schiphol Centrum - Schiphol Noord - Schiphol Oost - Amsterdamse Bos - Amstelveen Westwijk;62530
+Connexxion;202;Blaricum - Amsterdam;;;1490;spitsbus;;;;;
+Connexxion;209;Blaricum - Amsterdam;;;62095;spitsbus;;;;;
+Connexxion;210;Bussum - Weesp;;;41660;spitsbus;;;;;
+GVB;222;Station Sloterdijk - Houthavens;;;67174;spitsbus;;;;;
+GVB;231;Station Sloterdijk - Abberdaan;;;494;spitsbus;;;;;
+Overal (Connexxion);232;Hoorn Station - Blokker - Wervershoof - Andijk;;;63645;spitsbus;;;232;Hoorn - Zwaag - Wervershoof - Andijk;60804
+GVB;240;Amstel.Stat via ScienceP - Muiderp.st viaScienceP;;;67173;spitsbus from 14:30;;;;;
+Connexxion;242;Mijdrecht - Amsterdam Station Zuid via Amstelveen;;;62542;spitsbus;;;;;
+Connexxion;244;Haarlem Delftplein - Amsterdam Station Zuid;;;66064;spitsbus;;;;;
+GVB;245;Oostzanerdijk - Schiphol Zuid;;;21612;spitsbus;;;;;
+GVB;246;Borneolaan - Schiphol Zuid;;;21432;spitsbus;;;;;
+GVB;247;Bos en Lommerplein - Schiphol Zuid;;;21613;spitsbus;;;;;
+GVB;248;Centraal Station - Houthavens;;;60663;spitsbus;;;;;
+Overal (Connexxion);250;Middenmeer - Alkmaar Station;;;63685;spitsbus;;;;;
+Overal (Connexxion);251;Alkmaar Station - Petten via ECN;;;60835;spitsbus 6:00 - 11:00 en 14:30 - 20:00;;;;;
+Connexxion;255;Haarlem Station - Amsterdam Bijlmer ArenA;;;62549;spitsbus from 14:00;;;;;
+GVB;265;Amstelstation - Muiderpoortstation;;;67390;spitsbus from 14:00;;;;;
+GVB;265;Muiderpoortstation - Amstelstation;;;67175;spitsbus;;;;;
+Connexxion;271;Amsterdam Gaasperplas - Aalsmeer Floraholland;;;67264;spitsbus;;;;;
+Connexxion;287;Schiphol Airport - Douglassingel via Beechavenue;;;63677;spitsbus;;;;;
+Connexxion;300;Haarlem Station - A'dam Bijlmer ArenA via Airport;Streekbus;1;63638;;;;300;Haarlem - Vijfhuizen - Hoofddorp - Schiphol - Amstelveen Oranjebaan - Ouderkerk aan de Amstel - Amsterdam Zuidoost;62525
+EBS;301;van Amsterdam Noord naar Purmerend/ Edam;Streekbus;1;60889;;;;301;Amsterdam Buiksloterwegveer - Amsterdam Noord - Ilpendam - Purmerend - Edam;60889
+EBS;304;van Amsterdam Noord naar Purmerend;Streekbus;1;60885;;;;304;Amsterdam Noord - Ilpendam - Purmerend De Gors - Purmerend Purmer;60885
+EBS;305;van Amsterdam CS naar De Rijp;Streekbus;1;60886;;;;305;Amsterdam CS - Ilpendam - Purmerend - Middenbeemster - De Rijp;60886
+EBS;306;van Amsterdam CS naar Purmerend;Streekbus;1;60887;;;;306;Amsterdam CS - Ilpendam - Purmerend Wheermolen - Purmerend M.L. Kingweg;60887
+EBS;307;Van Amsterdam Noord naar Purmerend;Streekbus;1;60888;;;;307;Amsterdam Noord - Ilpendam - Purmerend Purmer - Purmerend Baanstee;60888
+EBS;308;van Amsterdam Noord naar Purmerend;Streekbus;1;60891;;;;308;Amsterdam Noord - Ilpendam - Purmerend Weidevenne;60891
+EBS;309;van Amsterdam Sloterdijk naar Purmerend;Streekbus;1;62475;;;;309;Amsterdam Sloterdijk - Ilpendam - Purmerend Purmer;62475
+EBS;312;van Amsterdam Noord naar Edam-Volendam;Streekbus;1;60895;;;;312;Amsterdam Noord - Broek in Waterland - Volendam - Edam;60895
+EBS;314;van Amsterdam CS naar Hoorn;Streekbus;1;409;;;;314;Amsterdam CS - Broek in Waterland - Edam - Scharwoude - Hoorn;409
+EBS;315;van Amsterdam Noord naar Marken;Streekbus;1;60897;;;;315;Amsterdam Noord - Broek in Waterland - Monnickendam - Marken;60897
+EBS;316;van Amsterdam CS naar Volendam-Edam;Streekbus;1;60896;;;;316;Amsterdam CS - Broek in Waterland - Volendam - Edam;60896
+EBS;319;van Amsterdam Noord naar Landsmeer;Streekbus;1;60899;;;;319;Amsterdam Noord - Landsmeer;60899
+Connexxion;320;Amsterdam - Hilversum;Streekbus;1;63657;;;;320;Hilversum - Blaricum Bijvanck - Huizen - Blaricum Ziekenhuis - Naarden - Muiden - Amsterdam Amstel;51872
+allGo (Keolis);322;Amsterdam Amstel via 't Oor - Almere Parkwijk;Streekbus;1;54596;now 72596;;;322;Almere Station Parkwijk - Tussen de Vaarten - Sallandsekant - Danswijk - Veluwsekant - Busstation 't Oor - Gooisekant - Middenkant - Station Poort - Muiden P+R - Diemerknoop - Amsterdam Middenweg - Amstelstation;54596
+allGo (Keolis);323;A'dam Bijlmer via 't Oor - Almere Parkwijk;Streekbus;1;61376;now 67765;;;;;
+allGo (Keolis);327;Amsterdam Amstel via Muiden P+R - Almere Haven;Streekbus;1;66978;;;;327;Almere Haven - Busstation 't Oor - Muiden P+R - Diemerknoop - Amsterdam Middenweg - Amstelstation;54599
+allGo (Keolis);328;A'dam Bijlmer via Muiden P+R - Almere Haven;Streekbus;1;66977;;;;328;Almere Haven - Busstation 't Oor - Muiden P+R - Diemerknoop - Amsterdam Daalwijkdreef - Bijlmerplein - Bijlmer ArenA;61375
+Connexxion;340;Haarlem Station - Uithoorn via Hoofddorp Station;Streekbus;1;65606;;;;340;Haarlem - Heemstede - Hoofddorp - Rozenburg - Aalsmeer - Uithoorn - Mijdrecht;62513
+Connexxion;341;Spaarne Gasthuis - WTC/Zuid via Hoofddorp Station;Streekbus;1;62512;;;;341;Hoofddorp - Schiphol - Amsterdam Zuid;62512
+Connexxion;342;Uithoorn - Schiphol Knooppunt Noord via Airport;Streekbus;1;63626;;;;342;Schiphol - Aalsmeer - Uithoorn;62183
+Connexxion;346;Haarlem Station - Amsterdam Station Zuid;Streekbus;1;62515;;;;346;Haarlem - Amsterdam Zuid;62515
+Connexxion;347;Uithoorn - Amsterdam Elandsgracht via Amstelveen;Streekbus;1;62514;;;;347;Amsterdam Centrum - Amstelveen - Uithoorn;62514
+Connexxion;348;Uithoorn - Amsterdam Station Zuid via Amstelveen;Streekbus;1;62511;;;;348;Amsterdam Zuid - Amstelveen - Uithoorn;62511
+Arriva;350;Alkmaar - Leeuwarden;Streekbus;1;210;Concessie Noord- en Zuidwest-Fryslân en Schiermonnikoog;;;;;
+Connexxion;356;Haarlem Station - A'dam Bijlmer ArenA via KP Noord;Streekbus;1;63678;;;;356;Haarlem - Schiphol Noord - Amstelveen Ouderkerkerlaan - Ouderkerk aan de Amstel - Amsterdam Zuidoost;62546
+Connexxion;357;Aalsmeer - Amsterdam Elandsgracht via Amstelveen;Streekbus;1;62547;;;;357;Amsterdam Centrum - Amstelveen - Aalsmeer;62547
+Connexxion;358;Kudelstaart/Aalsmeer - A'dam Station Zuid via ASV;Streekbus;1;62545;;;;358;Amsterdam Zuid - Amstelveen - Aalsmeer - Kudelstaart;62545
+Arriva;361;Sassenheim via Lisse - Schiphol Airport;Streekbus;1;42409;;;;361;Sassenheim - Lisse - Schiphol;42409
+Arriva;365;Schiphol Airport - Leiden Centraal;Streekbus;1;52884;;;;365;Leiden - Leiderdorp - Roelofarendsveen - Hoofddorp - Schiphol;52884
+EBS;375;van Amsterdam ZO naar Purmerend;Streekbus;1;62476;;;;;;
+EBS;376;van Amsterdam ZO naar Purmerend;Streekbus;1;62478;;;;376;Amsterdam Zuidoost - Diemen - Ilpendam - Purmerend;62478
+EBS;377;van Amsterdam ZO naar Purmerend;Streekbus;1;62477;;;;;;
+EBS;378;van Amsterdam ZO naar Edam;Streekbus;1;62480;;;;;;
+EBS;379;van Amsterdam ZO naar Hoorn;Streekbus;1;62479;;;;;;
+Connexxion;382;IJmuiden Seaport - Amsterdam Station Sloterdijk;Streekbus;1;63648;;;;382;Amsterdam Sloterdijk - Amsterdam Westpoort - Haarlemmerliede - Velsen Zuid - IJmuiden;51871
+Connexxion;385;Haarlem Station - IJmuiden;Streekbus;1;63647;;;;385;Haarlem - Santpoort - Driehuis - IJmuiden;51870
+Connexxion;391;Amsterdam CS - Zaandijk Zaanse Schans;Streekbus;1;63665;;;;391;Amsterdam Centraal - Zaandam De Vlinder - Kogerveld - Zaanse Schans;51874
+Connexxion;392;Amsterdam - Zaandam Station;Streekbus;1;63666;;;;392;Amsterdam Noord - Oostzaan - Zaandam De Vlinder - Zaandam Station;61334
+Connexxion;393;Amsterdam CS - Zaandam ZMC;Streekbus;1;67285;;;;;;
+Connexxion;394;Amsterdam CS - Zaandam Station;Streekbus;1;63668;;;;394;Amsterdam Centraal - Zaandam De Vlinder - Zaandam Station;51877
+Connexxion;395;Amsterdam Station Sloterdijk - Wormerland P+R;Streekbus;1;63667;;;;395;Amsterdam Sloterdijk - Zaandam De Vlinder - ZMC - Kogerveld - Wijdewormer;51876
+Connexxion;397;Nieuw Vennep - Amsterdam Elandsgracht via Airport;Streekbus;1;63734;;;;397;Nieuw Vennep - Hoofddorp - Schiphol - Amsterdam Elandsgracht;62529
+Overal (Connexxion);398;Amsterdam Riekerpolder - Zaandam De Vlinder - ZMC;;;51878;Spitsbus, per 03-01-21 opgeheven;;?;398;Amsterdam Riekerpolder - Zaandam De Vlinder - ZMC;51878
+Connexxion;401;Bennebroek - Hoofddorp Station via Spaarnegasthuis;Streekbus;1;62537;;;;401;Hoofddorp - Zwaanshoek - Bennebroek;62537
+Overal (Connexxion);406;Schagen Station - Zijdewind - Waarland;Buurtbus;1;60803;;;;406;Schagen - Waarland;60803
+Overal (Connexxion);407;Buurtbus Heerhugowaard;Buurtbus;1;66381;;;;;;
+Overal (Connexxion);408;Heiloo 't Loo - Egmond aan Zee;Buurtbus;1;61036;;;;408;Egmond aan Zee - Egmond Binnen - Heiloo;61036
+Overal (Connexxion);409;Obdam - Ursem - Heerhugowaard;Buurtbus;1;60801;;;;409;Heerhugowaard - Ursem - Obdam;60801
+Overal (Connexxion);411;Tuitjenhorn - Schagen Station;Buurtbus;1;60844;;;;411;Schagen - Sint Maartensvlotbrug - Burgerbrug - Tuitjenhorn / Schagen - Stroet - Kalverdijk - Tuitjenhorn;60844
+Overal (Connexxion);412;Hoorn Station - Hem - Hoogkarspel - Bovenkarspel;Buurtbus;1;60845;;;;412;Hoorn - Schellinkhout - Wijdenes - Hem - Venhuizen - Hoogkarspel - Grootebroek;60845
+EBS;413;van Purmerend naar Beets;Buurtbus;1;7450;;;;413;Purmerend - Kwadijk / Middelie - Oosthuizen - Warder - Schardam - Beets;7450
+Connexxion;414;Krommeniedijk - Oost-Knollendam;Buurtbus;1;1646;;;;414;Krommeniedijk - Krommenie - Assendelft - Wormerveer - Wormer - Oost-Knollendam;1646
+Overal (Connexxion);415;Medemblik - Wervershoof - Westwoud - Hoorn Station;Buurtbus;1;60840;;;;415;Hoorn - Oostblokker - Westwoud - Oostwoud - Wervershoof - Medemblik;60840
+EBS;416;van Purmerend naar De Rijp;Buurtbus;1;7449;;;;416;De Rijp - Westbeemster - Middenbeemster - Beemster - Zuidoostbeemster - Purmerend;7449
+Overal (Connexxion);416;Kreileroord - Schagen Station;Buurtbus;1;60841;;;;416;Schagen - Zijpe - Anna Paulowna - Wieringerwaard - Wieringerwerf - Kreileroord;60841
+Overal (Connexxion);417;Schagen Station - Obdam;Buurtbus;1;60842;;;;417;Schagen - Barsingerhorn - Winkel - Nieuwe Niedorp - Hoogwoud - Opmeer - Obdam;60842
+Connexxion;419;Ilpendam - Overleek - Monnickendam - Zuiderwoude - Uitdam - Zuiderwoude - Broek in Waterland;Buurtbus;1;60893;;;;419;Ilpendam - Overleek - Monnickendam - Zuiderwoude - Uitdam - Zuiderwoude - Broek in Waterland;60893
+Overal (Connexxion);438;Enkhuizen - Bovenkarspel - Wervershoof;Buurtbus;1;60823;;;;438;Enkhuizen - Bovenkarspel - Grootebroek - Andijk - Wervershoof;60823
+Connexxion;456;Assendelft - Zaandam Station;Buurtbus;1;30493;;;;456;Zaandam - Nauerna - Assendelft;30493
+Arriva;470;Alphen aan den Rijn - Schiphol Airport;Streekbus;1;52885;;;;470;Alphen aan den Rijn - Woubrugge - Rijnsaterwoude - Leimuiden - Schiphol;52885
+Connexxion;481;Haarlem Vijver  - Haarlem Delftplein;Buurtbus;1;52499;;;;481;Haarlem Delftplein - Santpoort - Bloemendaal - Overveen - Haarlem Ramplaankwartier;52499
+Syntus Utrecht;522;Vreeland via Nigtevecht - Weesp;Buurtbus;1;57646;Buurtbus = Streekbus;;;;;
+Connexxion;568;Haarlem - Cruquius Paswerk;;;63641;Spitsbus;;;;;
+Connexxion;602;Naarden - Amsterdam;;;25186;Schoolbus;;;;;
+Overal (Connexxion);606;Alkmaar Station - Bergen Europese School;;;63679;Schoolbus;;;;;
+Connexxion;609;Blaricum - Amsterdam;;;62097;Schoolbus;;;;;
+Overal (Connexxion);612;Hoorn Station - Hem - Hoogkarspel - Bovenkarspel;;;63661;Schoolbus;;;;;
+EBS;614;van Volendam naar Hoorn;;;66257;Schoolbus;;;;;
+Overal (Connexxion);617;Hoogwoud - Obdam;;;60825;Schoolbus;;;;;
+Overal (Connexxion);636;Aartswoud - Hoogwoud - Hoorn Station;;;60846;Schoolbus;;;;;
+Connexxion;640;Hoofddorp Station - Hoofddorp Kaj Munkweg;;;66580;Schoolbus;;;;;
+Overal (Connexxion);650;Lelystad - Enkhuizen - Wervershoof;;;60810;Schoolbus;;;;;
+Overal (Connexxion);652;Den Helder Station - Schagen Station;;;63655;Schoolbus;;;;;
+Overal (Connexxion);653;Kreileroord - Wieringerwerf - Middenmeer - Schagen;;;63656;Schoolbus;;;;;
+Overal (Connexxion);658;Schagen Station - Anna Paulowna Station;;;60806;Schoolbus;;;;;
+Overal (Connexxion);660;Alkmaar Station - Alkmaar Hogeschool;;;60792;Schoolbus;;;;;
+Connexxion;663;Rijsenhout - Hoofddorp Station;;;66059;Schoolbus;;;;;
+Connexxion;680;Zwanenburg - Heemstede;;;52490;Schoolbus;;;;;
+Arriva;858;Schiphol Airport - Keukenhof;;;66727;Speciale bus;;;;;
+Arriva;859;Hoofddorp - Keukenhof;;;66741;Speciale bus;;;;;
+Arriva;870;Alphen aan den Rijn - Schiphol Airport;;;60911;Speciale bus;;;;;
+Connexxion;891;Amsterdam CS - Zaandijk Zaanse Schans;;;67169;Speciale bus;;;;;
+Overal (Connexxion);FLEX;AML-FLEX: Uithoorn - Amstelveen;Streekbus;1;62518;vaste uurdienst tot ca. 19:00 uur;;;;;
+Overal (Connexxion);FLEX;AML-FLEX: Rijsenhout - Schiphol Rijk;Streekbus;1;62519;vaste uurdienst tot ca. 19:00 uur;;;;;
+Overal (Connexxion);FLEX;AML-FLEX: Buitenkaag - Nieuw Vennep;Streekbus;1;62522;vaste uurdienst tot ca. 19:00 uur;;;;;
+Overal (Connexxion);FLX;Overal Flex Schagen;;;65696;Flexbus;;;;;
+EBS;FLX;Overal Flex Winkel;;;65697;Flexbus;;;;;
+EBS;FLX;Overal Flex Anna Paulowna;;;65698;Flexbus;;;;;
+EBS;FLX;Overal Flex Castricum;;;65702;Flexbus;;;;;
+EBS;FLX;Overal Flex Heiloo;;;65703;Flexbus;;;;;
+allGo (Keolis);FLX;Overal Flex Alkmaar;;;65704;Flexbus;;;;;
+allGo (Keolis);FLX;Overal Flex Hoorn;;;65715;Flexbus;;;;;
+allGo (Keolis);N01;van Amsterdam CS naar Purmerend;;;7451;Nachtbus;;;;;
+Syntus Utrecht;N04;van Amsterdam CS naar Purmerend;;;7438;Nachtbus;;;;;
+Connexxion;N10;van Amsterdam CS naar Edam;;;7432;Nachtbus;;;;;
+Connexxion;N14;van Amsterdam CS naar Hoorn;;;7434;Nachtbus;;;;;
+Connexxion;N21;Almere Buiten via Filmwijk - A'dam Leidseplein;;;62504;Nachtbus;;;;;
+Connexxion;N22;Almere Oostv. via Poort - A'dam Leidseplein;;;62506;Nachtbus;;;;;
+Overal (Connexxion);N23;Almere Haven Centrum - Amsterdam;;;62503;Nachtbus;;;;;
+Overal (Connexxion);N26;Woerden via Mijdrecht - Amsterdam;;;57928;Nachtbus;;;;;
+Connexxion;N30;IJmuiden Dennekoplaan - Amsterdam Bijlmer ArenA;;;63689;Nachtbus;;;;;
+GVB;N32;Hilversum - Huizen;;;1224;Nachtbus;;;;;
+GVB;N47;Uithoorn Busstation - Amsterdam CS via Amstelveen;;;62510;Nachtbus;;;;;
+GVB;N57;Aalsmeer - Amsterdam CS IJzijde via Amstelveen;;;62531;Nachtbus;;;;;
+GVB;N60;Alkmaar Station - Heerhugowaard;;;60827;Nachtbus;;;;;
+GVB;N69;Amsterdam Elandsgracht - Alkmaar Station;;;66065;Nachtbus;;;;;
+GVB;N80;Amsterdam Centrum - Beverwijk Station;;;65718;Nachtbus;;;;;
+GVB;N81;Centraal Station - Station Sloterdijk;;;67180;Nachtbus;;;;;
+GVB;N82;Centraal Station - Geuzenveld;;;67181;Nachtbus;;;;;
+GVB;N83;Centraal Station - Osdorp de Aker;;;67182;Nachtbus;;;;;
+Connexxion;N84;Centraal Station - A'veen Busstation;;;67176;Nachtbus;;;;;
+Connexxion;N85;Centraal Station - Gein;;;67177;Nachtbus;;;;;
+GVB;N86;Centraal Station - Station Bijlmer ArenA;;;67178;Nachtbus;;;;;
+Connexxion;N87;Centraal Station - Station Bijlmer ArenA;;;67179;Nachtbus;;;;;
+GVB;N88;Centraal Station - Nieuw Sloten;;;67183;Nachtbus;;;;;
+Connexxion;N89;Centraal Station - IJburg;;;67184;Nachtbus;;;;;
+Connexxion;N90;Amsterdam - Zaandam Station;;;67253;Nachtbus;;;;;
+Connexxion;N90;Knooppunt Noord - P30/Knooppunt ZW via Airport;;;63640;Nachtbus;;;;;
+NS;N91;Centraal Station - Nieuwendam;;;67172;Nachtbus;;;;;
+NS;N92;Amsterdam Leidseplein - Zaandam Station;;;1525;Nachtbus;;;;;
+NS;N93;Centraal Station - Molenwijk;;;67171;Nachtbus;;;;;
+NS;N94;Amsterdam Leidseplein - Zaandam NS;;;61049;Nachtbus;;;;;
+NS;N95;Amsterdam Langsom - Schiphol via Badhoevedorp;;;66380;Nachtbus;;;;;
+NS;N97;Nieuw Vennep - Amsterdam CS IJzijde via Airport;;;62526;Nachtbus;;;;;
+NS;Snelbus i.p.v. trein;Snelbus i.p.v. trein Leiden Centraal <-> Schiphol Airport;;;67417;Snelbus i.p.v. trein;;;;;
+NS;Snelbus i.p.v. trein;Snelbus i.p.v. trein Amersfoort Centraal <-> Amsterdam Centraal;;;67420;Snelbus i.p.v. trein;;;;;
+NS;Snelbus i.p.v. trein;Snelbus i.p.v. trein Amsterdam Centraal <-> Utrecht Centraal;;;67423;Snelbus i.p.v. trein;;;;;
+NS;Snelbus i.p.v. trein;Snelbus i.p.v. trein Almere Centrum <-> Amsterdam Centraal;;;67324;Snelbus i.p.v. trein;;;;;
+NS;Stopbus i.p.v. trein;Stopbus i.p.v. trein Hilversum <-> Weesp;;;67393;Snelbus i.p.v. trein;;;;;
+NS;Stopbus i.p.v. trein;Stopbus i.p.v. trein Amsterdam Centraal <-> Weesp;;;67398;Snelbus i.p.v. trein;;;;;
+NS;Stopbus i.p.v. trein;Stopbus i.p.v. trein Amersfoort Centraal <-> Hilversum;;;67410;Snelbus i.p.v. trein;;;;;
+;Stopbus i.p.v. trein;Stopbus i.p.v. trein Amsterdam Muiderpoort <-> Amsterdam Science Park;;;67426;Snelbus i.p.v. trein;;;;;
+;Stopbus i.p.v. trein;Stopbus i.p.v. trein Amersfoort Centraal <-> Weesp;;;67427;Snelbus i.p.v. trein;;;;;
+;Stopbus i.p.v. trein;Stopbus i.p.v. trein Alkmaar <-> Amsterdam Centraal;;;52980;Snelbus i.p.v. trein;;;;;
+;Stopbus i.p.v. trein;Stopbus i.p.v. trein Alkmaar <-> Zaandam;;;52988;Snelbus i.p.v. trein;;;;;
+;Stopbus i.p.v. trein;Stopbus i.p.v. trein Alkmaar <-> Uitgeest;;;52644;Snelbus i.p.v. trein;;;;;
+;Stopbus i.p.v. trein;Stopbus i.p.v. trein Alkmaar <-> Den Helder;;;52983;Snelbus i.p.v. trein;;;;;
